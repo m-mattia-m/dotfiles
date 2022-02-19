@@ -1,0 +1,26 @@
+{
+    // "php.validate.run": "onType",
+    // "php.debug.executablePath": "/opt/lampp/etc/php.ini",
+    // "php.validate.executablePath": "/opt/lampp/etc/php.ini",
+    // "phpserver.phpPath": "/opt/lampp/etc/php.ini",
+    // "php.validate.enable": true,
+    // "php.debug.executablePath": "/opt/lampp/etc/php.ini",
+    "phpserver.phpPath": "/Users/mattiamueggler/Local Sites/wpcoreupcraftli/config/php/php.ini.hbs",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "Sophisticode.php-formatter"
+    },
+    "workbench.startupEditor": "none",
+    "csharp.suppressDotnetRestoreNotification": true,
+    "csharp.suppressDotnetInstallWarning": true,
+    "csharp.suppressBuildAssetsNotification": true,
+    "csharp.suppressProjectJsonWarning": true
+}
